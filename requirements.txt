@@ -1,0 +1,2 @@
+# Python Habit Tracker dependencies
+# (Built for Python 3.10+)
